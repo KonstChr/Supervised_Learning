@@ -1,4 +1,4 @@
 # Supervised_Learning
-A Supervised Learning Project that I undertook as a means of revision and extra practice to supplement my Data Science Professional Diploma from Big Blue Data Academy.
+Originally started as a Capstone Project for Udemy course "Python for Machine Learning and Data Science Masterclass" (https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/). I did some changes and worked it my own way.
 
-Code is written by me. I got some ideas regarding the EDA phase online but all the code and especially Step 4 which is the Machine Learning part is entirely my own work 
+I got some ideas for the graphs from the course but the code is entirely mine and the Machine Learning phase and modus operandi was also mine and independent from the course.
